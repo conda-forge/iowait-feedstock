@@ -11,6 +11,18 @@ Summary: Platform-independent module for I/O completion events
 
 
 
+Current build status
+====================
+
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/iowait-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/iowait-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/iowait-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/iowait-feedstock)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/iowait-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/iowait-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/iowait/badges/version.svg)](https://anaconda.org/conda-forge/iowait)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/iowait/badges/downloads.svg)](https://anaconda.org/conda-forge/iowait)
+
 Installing iowait
 =================
 
@@ -66,18 +78,6 @@ Terminology
 
 **conda-forge** - the place where the feedstock and smithy live and work to
                   produce the finished article (built conda distributions)
-
-Current build status
-====================
-
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/iowait-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/iowait-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/iowait-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/iowait-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/iowait-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/iowait-feedstock/branch/master)
-
-Current release info
-====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/iowait/badges/version.svg)](https://anaconda.org/conda-forge/iowait)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/iowait/badges/downloads.svg)](https://anaconda.org/conda-forge/iowait)
 
 
 Updating iowait-feedstock
